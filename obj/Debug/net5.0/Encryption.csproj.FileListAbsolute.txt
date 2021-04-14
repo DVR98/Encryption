@@ -1,0 +1,16 @@
+D:\Durant\Projects\Encryption\bin\Debug\net5.0\Encryption.exe
+D:\Durant\Projects\Encryption\bin\Debug\net5.0\Encryption.deps.json
+D:\Durant\Projects\Encryption\bin\Debug\net5.0\Encryption.runtimeconfig.json
+D:\Durant\Projects\Encryption\bin\Debug\net5.0\Encryption.runtimeconfig.dev.json
+D:\Durant\Projects\Encryption\bin\Debug\net5.0\Encryption.dll
+D:\Durant\Projects\Encryption\bin\Debug\net5.0\ref\Encryption.dll
+D:\Durant\Projects\Encryption\bin\Debug\net5.0\Encryption.pdb
+D:\Durant\Projects\Encryption\obj\Debug\net5.0\Encryption.csprojAssemblyReference.cache
+D:\Durant\Projects\Encryption\obj\Debug\net5.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+D:\Durant\Projects\Encryption\obj\Debug\net5.0\Encryption.AssemblyInfoInputs.cache
+D:\Durant\Projects\Encryption\obj\Debug\net5.0\Encryption.AssemblyInfo.cs
+D:\Durant\Projects\Encryption\obj\Debug\net5.0\Encryption.csproj.CoreCompileInputs.cache
+D:\Durant\Projects\Encryption\obj\Debug\net5.0\Encryption.dll
+D:\Durant\Projects\Encryption\obj\Debug\net5.0\ref\Encryption.dll
+D:\Durant\Projects\Encryption\obj\Debug\net5.0\Encryption.pdb
+D:\Durant\Projects\Encryption\obj\Debug\net5.0\Encryption.genruntimeconfig.cache
